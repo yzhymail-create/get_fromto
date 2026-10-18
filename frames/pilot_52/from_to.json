@@ -1,0 +1,3350 @@
+[
+ {
+  "id": 0,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 2,
+  "length_px": 881
+ },
+ {
+  "id": 1,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 1473
+ },
+ {
+  "id": 2,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 126
+ },
+ {
+  "id": 3,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 2,
+  "length_px": 145
+ },
+ {
+  "id": 4,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 2,
+  "length_px": 145
+ },
+ {
+  "id": 5,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 2,
+  "length_px": 145
+ },
+ {
+  "id": 6,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 2,
+  "length_px": 145
+ },
+ {
+  "id": 7,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 8,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 9,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 10,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 11,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 12,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 13,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 721
+ },
+ {
+  "id": 14,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 59
+ },
+ {
+  "id": 15,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 61
+ },
+ {
+  "id": 16,
+  "label": "未标注",
+  "endpoints": [
+   "器件#1(经端子)"
+  ],
+  "n_endpoints": 1,
+  "length_px": 52
+ },
+ {
+  "id": 17,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 61
+ },
+ {
+  "id": 18,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 19,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 20,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 21,
+  "label": "未标注",
+  "endpoints": [
+   "器件#1(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 79
+ },
+ {
+  "id": 22,
+  "label": "未标注",
+  "endpoints": [
+   "器件#1(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 77
+ },
+ {
+  "id": 23,
+  "label": "未标注",
+  "endpoints": [
+   "器件#1(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 55
+ },
+ {
+  "id": 24,
+  "label": "未标注",
+  "endpoints": [
+   "器件#1(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 84
+ },
+ {
+  "id": 26,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 32,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 35,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 60
+ },
+ {
+  "id": 36,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 490
+ },
+ {
+  "id": 37,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 38,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 113
+ },
+ {
+  "id": 39,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 113
+ },
+ {
+  "id": 40,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 496
+ },
+ {
+  "id": 41,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 669
+ },
+ {
+  "id": 43,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 61
+ },
+ {
+  "id": 44,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 3,
+  "length_px": 81
+ },
+ {
+  "id": 45,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 78
+ },
+ {
+  "id": 46,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 78
+ },
+ {
+  "id": 47,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 85
+ },
+ {
+  "id": 48,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 61
+ },
+ {
+  "id": 49,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 510
+ },
+ {
+  "id": 50,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 1,
+  "length_px": 73
+ },
+ {
+  "id": 52,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 3,
+  "length_px": 68
+ },
+ {
+  "id": 53,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 62
+ },
+ {
+  "id": 54,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 56,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 58,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 59,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 60,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 61,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 62,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 63,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 64,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 65,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 66,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 67,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 77
+ },
+ {
+  "id": 68,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 462
+ },
+ {
+  "id": 69,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 118
+ },
+ {
+  "id": 70,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 121
+ },
+ {
+  "id": 71,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 121
+ },
+ {
+  "id": 72,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 500
+ },
+ {
+  "id": 73,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 665
+ },
+ {
+  "id": 74,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 75,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 76,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 77,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 78,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 79,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 80,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 81,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 82,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 83,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 480
+ },
+ {
+  "id": 84,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 83
+ },
+ {
+  "id": 85,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 77
+ },
+ {
+  "id": 86,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 77
+ },
+ {
+  "id": 87,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 61
+ },
+ {
+  "id": 88,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 89,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 480
+ },
+ {
+  "id": 90,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 55
+ },
+ {
+  "id": 91,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 80
+ },
+ {
+  "id": 92,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 78
+ },
+ {
+  "id": 93,
+  "label": "未标注",
+  "endpoints": [
+   "器件#3(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 75
+ },
+ {
+  "id": 94,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 55
+ },
+ {
+  "id": 95,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 84
+ },
+ {
+  "id": 96,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 62
+ },
+ {
+  "id": 97,
+  "label": "未标注",
+  "endpoints": [
+   "器件#3(经端子)"
+  ],
+  "n_endpoints": 1,
+  "length_px": 73
+ },
+ {
+  "id": 98,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 99,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 100,
+  "label": "未标注",
+  "endpoints": [
+   "器件#2(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 62
+ },
+ {
+  "id": 102,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 103,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 104,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 60
+ },
+ {
+  "id": 105,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 53
+ },
+ {
+  "id": 107,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 59
+ },
+ {
+  "id": 108,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 463
+ },
+ {
+  "id": 109,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 91
+ },
+ {
+  "id": 110,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 65
+ },
+ {
+  "id": 111,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 64
+ },
+ {
+  "id": 112,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 113,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 114,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 115,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 116,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 117,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 118,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 119,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 120,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 121,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 89
+ },
+ {
+  "id": 122,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 516
+ },
+ {
+  "id": 123,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 141
+ },
+ {
+  "id": 124,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 77
+ },
+ {
+  "id": 125,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 77
+ },
+ {
+  "id": 126,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 60
+ },
+ {
+  "id": 127,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 462
+ },
+ {
+  "id": 128,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 61
+ },
+ {
+  "id": 129,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 83
+ },
+ {
+  "id": 130,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 67
+ },
+ {
+  "id": 131,
+  "label": "未标注",
+  "endpoints": [
+   "器件#4(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 78
+ },
+ {
+  "id": 132,
+  "label": "未标注",
+  "endpoints": [
+   "器件#4(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 55
+ },
+ {
+  "id": 133,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 134,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 135,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 136,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 137,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 138,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 139,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 140,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 141,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 142,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 117
+ },
+ {
+  "id": 143,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 517
+ },
+ {
+  "id": 144,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 113
+ },
+ {
+  "id": 145,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 146,
+  "label": "未标注",
+  "endpoints": [
+   "器件#4(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 55
+ },
+ {
+  "id": 147,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 148,
+  "label": "未标注",
+  "endpoints": [
+   "器件#4(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 62
+ },
+ {
+  "id": 149,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 150,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 152,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 753
+ },
+ {
+  "id": 153,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 1459
+ },
+ {
+  "id": 154,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 753
+ },
+ {
+  "id": 155,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 1466
+ },
+ {
+  "id": 157,
+  "label": "未标注",
+  "endpoints": [
+   "器件#3(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 88
+ },
+ {
+  "id": 158,
+  "label": "未标注",
+  "endpoints": [
+   "器件#0(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 79
+ },
+ {
+  "id": 159,
+  "label": "未标注",
+  "endpoints": [
+   "器件#5(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 80
+ },
+ {
+  "id": 160,
+  "label": "未标注",
+  "endpoints": [
+   "器件#5(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 73
+ },
+ {
+  "id": 161,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 162,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 163,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 164,
+  "label": "未标注",
+  "endpoints": [
+   "器件#5(经端子)"
+  ],
+  "n_endpoints": 2,
+  "length_px": 62
+ },
+ {
+  "id": 165,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 68
+ },
+ {
+  "id": 166,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 167,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 168,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 70
+ },
+ {
+  "id": 169,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 51
+ },
+ {
+  "id": 171,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 71
+ },
+ {
+  "id": 172,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 517
+ },
+ {
+  "id": 173,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 145
+ },
+ {
+  "id": 174,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 175,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 176,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 177,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 178,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 179,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 180,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 181,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 182,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 183,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 93
+ },
+ {
+  "id": 184,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 118
+ },
+ {
+  "id": 185,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 186,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 187,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 188,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 189,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 190,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 191,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 56
+ },
+ {
+  "id": 192,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 193,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 58
+ },
+ {
+  "id": 194,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 105
+ },
+ {
+  "id": 195,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 632
+ },
+ {
+  "id": 196,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 745
+ },
+ {
+  "id": 197,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 745
+ },
+ {
+  "id": 199,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 200,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 201,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 202,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 203,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 1109
+ },
+ {
+  "id": 204,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 727
+ },
+ {
+  "id": 205,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 116
+ },
+ {
+  "id": 207,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 116
+ },
+ {
+  "id": 208,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 116
+ },
+ {
+  "id": 209,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 116
+ },
+ {
+  "id": 210,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 469
+ },
+ {
+  "id": 211,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 104
+ },
+ {
+  "id": 212,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 213,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 214,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 215,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 216,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 217,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 219,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 221,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 222,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 223,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 224,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 225,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 82
+ },
+ {
+  "id": 226,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 82
+ },
+ {
+  "id": 227,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 228,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 229,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 230,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 231,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 232,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 204
+ },
+ {
+  "id": 233,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 234,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 235,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 236,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 237,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 238,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 240,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 242,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 243,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 244,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 245,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 246,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 83
+ },
+ {
+  "id": 247,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 81
+ },
+ {
+  "id": 248,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 249,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 250,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 251,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 252,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 206
+ },
+ {
+  "id": 253,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 205
+ },
+ {
+  "id": 254,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 255,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 256,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 257,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 258,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 259,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 261,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 263,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 264,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 265,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 266,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 267,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 268,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 134
+ },
+ {
+  "id": 269,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 154
+ },
+ {
+  "id": 270,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 154
+ },
+ {
+  "id": 271,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 272,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 273,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 274,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 158
+ },
+ {
+  "id": 275,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 276,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 153
+ },
+ {
+  "id": 277,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 153
+ },
+ {
+  "id": 278,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 153
+ },
+ {
+  "id": 279,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 151
+ },
+ {
+  "id": 280,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 160
+ },
+ {
+  "id": 281,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 282,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 283,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 285,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 52
+ },
+ {
+  "id": 286,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 287,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 71
+ },
+ {
+  "id": 288,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 53
+ },
+ {
+  "id": 289,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 727
+ },
+ {
+  "id": 290,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 291,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 292,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 293,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 294,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 64
+ },
+ {
+  "id": 295,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 296,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 297,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 233
+ },
+ {
+  "id": 298,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 300
+ },
+ {
+  "id": 299,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 300,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 301,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 303,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 305,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 306,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 307,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 308,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 309,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 310,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 311,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 312,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 315,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 316,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 317,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 318,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 153
+ },
+ {
+  "id": 319,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 320,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 153
+ },
+ {
+  "id": 321,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 151
+ },
+ {
+  "id": 322,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 323,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 205
+ },
+ {
+  "id": 324,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 135
+ },
+ {
+  "id": 325,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 132
+ },
+ {
+  "id": 326,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 131
+ },
+ {
+  "id": 327,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 131
+ },
+ {
+  "id": 328,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 66
+ },
+ {
+  "id": 329,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 1,
+  "length_px": 71
+ },
+ {
+  "id": 330,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 331,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 332,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 333,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 52
+ },
+ {
+  "id": 334,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 50
+ },
+ {
+  "id": 335,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 101
+ },
+ {
+  "id": 336,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 214
+ },
+ {
+  "id": 337,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 338,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 232
+ },
+ {
+  "id": 339,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 340,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 341,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 233
+ },
+ {
+  "id": 342,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 343,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 344,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 345,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 346,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 347,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 349,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 351,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 352,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 353,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 115
+ },
+ {
+  "id": 354,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 355,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 356,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 357,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 358,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 359,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 360,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 114
+ },
+ {
+  "id": 361,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 362,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 154
+ },
+ {
+  "id": 363,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 154
+ },
+ {
+  "id": 364,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 158
+ },
+ {
+  "id": 365,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 69
+ },
+ {
+  "id": 366,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 69
+ },
+ {
+  "id": 367,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 3,
+  "length_px": 54
+ },
+ {
+  "id": 368,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 53
+ },
+ {
+  "id": 369,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 233
+ },
+ {
+  "id": 370,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 371,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 372,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 98
+ },
+ {
+  "id": 373,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 374,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 199
+ },
+ {
+  "id": 375,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 376,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 727
+ },
+ {
+  "id": 377,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 165
+ },
+ {
+  "id": 378,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 267
+ },
+ {
+  "id": 379,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 232
+ },
+ {
+  "id": 380,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 166
+ },
+ {
+  "id": 381,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 266
+ },
+ {
+  "id": 382,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 106
+ },
+ {
+  "id": 383,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 106
+ },
+ {
+  "id": 384,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 106
+ },
+ {
+  "id": 385,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 106
+ },
+ {
+  "id": 386,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 106
+ },
+ {
+  "id": 388,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 105
+ },
+ {
+  "id": 390,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 105
+ },
+ {
+  "id": 391,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 105
+ },
+ {
+  "id": 392,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 105
+ },
+ {
+  "id": 393,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 152
+ },
+ {
+  "id": 395,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 174
+ },
+ {
+  "id": 396,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 146
+ },
+ {
+  "id": 397,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 156
+ },
+ {
+  "id": 398,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 156
+ },
+ {
+  "id": 399,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 155
+ },
+ {
+  "id": 400,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 155
+ },
+ {
+  "id": 401,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 1,
+  "length_px": 180
+ },
+ {
+  "id": 402,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 140
+ },
+ {
+  "id": 403,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 54
+ },
+ {
+  "id": 404,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 0,
+  "length_px": 52
+ },
+ {
+  "id": 405,
+  "label": "未标注",
+  "endpoints": [
+   "悬空"
+  ],
+  "n_endpoints": 2,
+  "length_px": 52
+ },
+ {
+  "id": 407,
+  "label": "未标注",
+  "endpoints": [
+   "框边界端口"
+  ],
+  "n_endpoints": 4,
+  "length_px": 58
+ }
+]

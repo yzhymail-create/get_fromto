@@ -1,0 +1,68 @@
+[
+ {
+  "bbox_xywh": [
+   2624,
+   1170,
+   435,
+   1527
+  ],
+  "border_junctions": 0,
+  "id": 0,
+  "texts": []
+ },
+ {
+  "bbox_xywh": [
+   3784,
+   1211,
+   431,
+   177
+  ],
+  "border_junctions": 0,
+  "id": 1,
+  "texts": []
+ },
+ {
+  "bbox_xywh": [
+   3788,
+   1519,
+   431,
+   173
+  ],
+  "border_junctions": 0,
+  "id": 2,
+  "texts": []
+ },
+ {
+  "bbox_xywh": [
+   3871,
+   1831,
+   264,
+   344
+  ],
+  "border_junctions": 0,
+  "id": 3,
+  "texts": []
+ },
+ {
+  "bbox_xywh": [
+   719,
+   2024,
+   363,
+   176
+  ],
+  "border_junctions": 0,
+  "id": 4,
+  "texts": []
+ },
+ {
+  "bbox_xywh": [
+   3862,
+   2299,
+   253,
+   362
+  ],
+  "border_junctions": 0,
+  "id": 5,
+  "texts": []
+ }
+]

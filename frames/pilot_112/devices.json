@@ -1,0 +1,134 @@
+[
+ {
+  "bbox_xywh": [
+   1101,
+   819,
+   301,
+   101
+  ],
+  "border_junctions": 6,
+  "texts": [],
+  "id": 0
+ },
+ {
+  "bbox_xywh": [
+   1118,
+   1123,
+   301,
+   101
+  ],
+  "border_junctions": 14,
+  "texts": [],
+  "id": 1
+ },
+ {
+  "bbox_xywh": [
+   1140,
+   1730,
+   301,
+   101
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 2
+ },
+ {
+  "bbox_xywh": [
+   4582,
+   1769,
+   371,
+   128
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 3
+ },
+ {
+  "bbox_xywh": [
+   1147,
+   2001,
+   300,
+   101
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 4
+ },
+ {
+  "bbox_xywh": [
+   4466,
+   2111,
+   484,
+   118
+  ],
+  "border_junctions": 20,
+  "texts": [],
+  "id": 5
+ },
+ {
+  "bbox_xywh": [
+   1118,
+   2375,
+   301,
+   101
+  ],
+  "border_junctions": 10,
+  "texts": [],
+  "id": 6
+ },
+ {
+  "bbox_xywh": [
+   4472,
+   2408,
+   478,
+   129
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 7
+ },
+ {
+  "bbox_xywh": [
+   1120,
+   2735,
+   357,
+   527
+  ],
+  "border_junctions": 8,
+  "texts": [],
+  "id": 8
+ },
+ {
+  "bbox_xywh": [
+   4587,
+   2715,
+   300,
+   131
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 9
+ },
+ {
+  "bbox_xywh": [
+   4586,
+   2980,
+   301,
+   114
+  ],
+  "border_junctions": 16,
+  "texts": [],
+  "id": 10
+ },
+ {
+  "bbox_xywh": [
+   1167,
+   3441,
+   317,
+   197
+  ],
+  "border_junctions": 0,
+  "texts": [],
+  "id": 11
+ }
+]

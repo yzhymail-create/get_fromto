@@ -1,0 +1,23 @@
+# 纯视觉管线 requirements（Windows 交付版）
+# 安装：pip install -r requirements.txt
+# 要求：Windows 10/11 64位，Python 3.10~3.12 64位
+# 全部为纯 pip 包（含 Windows wheel），无 apt/系统二进制依赖。
+
+# OCR（中文识别）
+rapidocr_onnxruntime==1.4.4
+onnxruntime==1.31.0
+
+# 图像处理
+opencv-python==5.0.0.93
+numpy==2.5.4
+Pillow==13.0.0
+
+# DXF 渲染（唯一接触 DXF 的模块）
+ezdxf==1.4.5
+
+# 报表输出
+openpyxl==3.1.2
+
+# QA 可视化
+matplotlib==3.11.2
+pymupdf==1.28.2  # PDF渲染（render_pdf.py），有Windows wheel

@@ -1,0 +1,142 @@
+loading /home/hatch/workspace/visual_tracer/incoming/v2/testԭ��ͼ-V6.0.dxf
+frame52 bbox units: [109613.9, -6434.9, 110451.5, -5860.1]
+  scanned 100000
+  scanned 200000
+  scanned 300000
+  scanned 400000
+  scanned 500000
+
+saved /home/hatch/workspace/visual_tracer/vector_check/frame52_entities.pkl
+
+=== (type, layer) counts inside frame52 ===
+TEXT         0                    134
+LINE         0                    82
+CIRCLE       0                    46
+TEXT         1FILAMENT            42
+ARC          0                    37
+LINE         3FRAME               29
+LWPOLYLINE   0                    15
+LINE         2FRAME               7
+
+LINE: 118  CIRCLE: 46  rects: 0  TEXT: 176  ARCs: 37  PLINEs: 15
+CIRCLE radius min=0.31 max=0.62 median=0.62
+CIRCLE layers: {'0': 46}
+
+--- sample TEXTs (80) ---
+  [0] h=2.2 (109948.5,-6024.9) 'KL30'
+  [0] h=2.2 (109948.4,-6036.0) 'KL30'
+  [0] h=2.2 (109967.0,-6055.4) '右前轮速传感器电源'
+  [0] h=2.2 (109966.2,-6069.8) '右前轮速传感器信号'
+  [0] h=2.2 (109966.6,-6108.0) '左后轮速传感器信号'
+  [0] h=2.2 (109966.9,-6097.4) '左后轮速传感器电源'
+  [0] h=2.2 (109966.8,-6167.6) '右后轮速传感器信号'
+  [0] h=2.2 (109965.8,-6156.1) '右后轮速传感器电源'
+  [0] h=8.4 (109606.2,-6430.3) ' 机密★  年'
+  [0] h=8.4 (109606.2,-6439.7) ' 秘密★  年'
+  [1FILAMENT] h=6.3 (110176.9,-6442.9) '批准'
+  [1FILAMENT] h=6.3 (110092.7,-6443.0) '工艺'
+  [1FILAMENT] h=6.3 (110092.9,-6398.5) '设计'
+  [1FILAMENT] h=4.2 (110089.7,-6403.1) 'design'
+  [1FILAMENT] h=6.3 (110092.6,-6413.0) '校对'
+  [1FILAMENT] h=6.3 (110092.6,-6428.0) '审核'
+  [1FILAMENT] h=4.2 (110091.2,-6434.5) 'audit'
+  [1FILAMENT] h=4.2 (110090.4,-6418.8) 'check'
+  [1FILAMENT] h=2.1 (110088.2,-6388.6) 'change symbol'
+  [1FILAMENT] h=6.3 (110091.4,-6384.4) '标 记'
+  [1FILAMENT] h=3.8 (110109.0,-6388.4) 'quantity'
+  [1FILAMENT] h=6.3 (110112.9,-6383.9) '处 数'
+  [1FILAMENT] h=6.3 (110174.8,-6398.9) '标准化'
+  [1FILAMENT] h=4.2 (110173.5,-6418.5) 'layout'
+  [1FILAMENT] h=6.3 (110174.6,-6413.3) '总布置'
+  [1FILAMENT] h=2.6 (110172.0,-6404.3) 'standardize'
+  [1FILAMENT] h=4.2 (110165.5,-6388.8) 'file number'
+  [1FILAMENT] h=6.3 (110139.2,-6383.9) '分  区'
+  [1FILAMENT] h=4.2 (110140.1,-6388.9) 'zone'
+  [1FILAMENT] h=6.3 (110168.4,-6383.9) '更改文件号'
+  [1FILAMENT] h=6.3 (110263.5,-6443.1) '第一角投影'
+  [1FILAMENT] h=6.3 (110265.6,-6400.4) '阶段标记'
+  [1FILAMENT] h=4.2 (110258.4,-6404.8) 'state symbol'
+  [1FILAMENT] h=4.2 (110260.5,-6433.3) 'projection'
+  [1FILAMENT] h=4.2 (110232.8,-6389.3) 'date'
+  [1FILAMENT] h=6.3 (110227.6,-6383.9) '年、月、日'
+  [1FILAMENT] h=6.3 (110202.4,-6383.9) '签  名'
+  [1FILAMENT] h=4.2 (110204.8,-6388.9) 'sign'
+  [1FILAMENT] h=4.2 (110295.9,-6404.9) 'edition'
+  [1FILAMENT] h=6.3 (110298.8,-6400.6) '版本'
+  [1FILAMENT] h=2.6 (110294.9,-6433.8) 'CAD system'
+  [1FILAMENT] h=6.3 (110269.6,-6428.9) '投影'
+  [1FILAMENT] h=3.2 (110315.7,-6434.2) 'format size'
+  [1FILAMENT] h=6.3 (110322.2,-6428.5) '图幅'
+  [1FILAMENT] h=4.2 (110319.2,-6404.3) 'weight'
+  [1FILAMENT] h=6.3 (110322.1,-6399.2) '重量'
+  [1FILAMENT] h=4.2 (110343.5,-6434.6) 'sheet'
+  [1FILAMENT] h=6.3 (110345.9,-6428.6) '张数'
+  [1FILAMENT] h=4.2 (110343.6,-6404.8) 'scale'
+  [1FILAMENT] h=6.3 (110345.3,-6400.0) '比例'
+  [1FILAMENT] h=4.2 (110300.5,-6416.8) '00'
+  [1FILAMENT] h=4.2 (110273.4,-6416.8) 'B'
+  [0] h=8.4 (110270.9,-6358.9) '(中 文 材 料 标 记)'
+  [0] h=8.4 (110270.9,-6373.0) '(英 文 材 料 标 记)'
+  [0] h=5.0 (110060.7,-6008.9) 'FL Speed Sensor Without RBU'
+  [0] h=3.0 (110107.3,-6000.2) 'BD219'
+  [0] h=5.0 (110060.8,-6047.4) 'FR Speed Sensor Without RBU'
+  [0] h=3.0 (110107.8,-6038.7) 'BD221'
+  [0] h=5.0 (110038.2,-6086.4) 'RL Speed Sensor With Caliper Without RBU'
+  [0] h=3.0 (110107.7,-6077.7) 'BD223'
+  [0] h=5.0 (110036.0,-6144.9) 'RR Speed Sensor With Caliper Without RBU'
+  [0] h=3.0 (110105.9,-6136.2) 'BD225'
+  [0] h=5.0 (109682.9,-6110.6) 'Brake Fluid Level Sensor'
+  [0] h=3.0 (109719.8,-6101.8) 'BD121'
+  [0] h=1.5 (109863.1,-6039.6) 'GFL8T1 IPB1'
+  [0] h=1.5 (109864.1,-6051.6) 'GFL8T2 IPB2'
+  [0] h=1.5 (109863.1,-6008.1) 'EF43 KL15_IPB'
+  [0] h=1.5 (109850.6,-6076.5) 'IPB19 CANL'
+  [0] h=1.5 (109851.1,-6066.5) 'IPB5 CANH'
+  [0] h=1.5 (109862.8,-6029.9) 'MF05_IPB1'
+  [0] h=1.5 (109865.6,-6018.6) 'XF02_IPB2'
+  [0] h=1.5 (109850.5,-6087.0) 'IPB11 CANH'
+  [0] h=1.5 (109850.7,-6095.5) 'IPB25 CANL'
+  [0] h=5.0 (109928.0,-6002.8) 'Integrated Power Brake'
+  [0] h=3.0 (109962.1,-5994.0) 'BD176'
+  [0] h=1.0 (110085.2,-6152.4) 'BD225-3'
+  [0] h=1.5 (110099.6,-6153.9) 'RR Speed Sensor Power'
+  [0] h=1.0 (110085.7,-6175.9) 'BD225-1'
+  [0] h=1.5 (110104.8,-6177.4) 'Right Caliper -'
+  [0] h=1.0 (110085.7,-6187.4) 'BD225-4'
+
+pin-like: 37 e.g. ['BD225-3', 'BD225-1', 'BD225-4', 'BD225-2', 'BD176-2', 'BD176-3', 'BD176-20', 'BD176-37', 'BD121-1', 'BD121-2', 'BD219-2', 'BD219-1']
+wire-like: 17 e.g. ['IPB20_01 G 0.35 ALL FLH FLRY-B T031', 'IPB37_01 V/BR 0.35 ALL FLH FLRY-B T031', 'IPB03_01 Y 2.50 ALL FLH FLRY-B', 'IPB02_01 R/G 2.50 ALL FLH FLRY-B', 'IPB04_01 BR 0.35 ALL FLH FLRY-B', 'IPB38_02 GY/BR 0.35 ALL FLH FLRY-B', 'IPB021_01 BR/G 0.35 ALL FLH FLRY-B T361', 'IPB07_01 BR/B 0.35 ALL FLH FLRY-B T361', 'IPB42_01 L 0.35 ALL FLH FLRY-B T025', 'IPB26_01 L/W 0.35 ALL FLH FLRY-B T025', 'IPB39_01 W 0.35 ALL FLH FLRY-B T028', 'IPB23_01 W/B 0.35 ALL FLH FLRY-B T028']
+
+--- PLINE detail (closed, npts, layer, bbox) ---
+  layer=0 closed=True npts=4 x=[110087.0,110140.7] y=[-6033.5,-6011.4]
+  layer=0 closed=True npts=4 x=[110087.5,110141.2] y=[-6071.5,-6049.9]
+  layer=0 closed=True npts=4 x=[110097.8,110130.7] y=[-6131.9,-6088.9]
+  layer=0 closed=True npts=4 x=[110096.7,110128.2] y=[-6192.7,-6147.4]
+  layer=0 closed=True npts=4 x=[109703.8,109749.0] y=[-6135.0,-6113.1]
+  layer=0 closed=True npts=3 x=[109867.1,109872.1] y=[-6044.6,-6042.1]
+  layer=0 closed=True npts=3 x=[109868.1,109873.1] y=[-6056.6,-6054.1]
+  layer=0 closed=True npts=3 x=[109868.6,109873.6] y=[-6013.1,-6010.6]
+  layer=0 closed=True npts=3 x=[109854.2,109859.2] y=[-6081.5,-6079.0]
+  layer=0 closed=True npts=3 x=[109854.2,109859.2] y=[-6071.5,-6069.0]
+  layer=0 closed=True npts=3 x=[109865.9,109870.9] y=[-6034.9,-6032.4]
+  layer=0 closed=True npts=3 x=[109868.7,109873.7] y=[-6023.6,-6021.1]
+  layer=0 closed=True npts=3 x=[109854.3,109859.3] y=[-6092.0,-6089.5]
+  layer=0 closed=True npts=3 x=[109854.2,109859.2] y=[-6100.5,-6098.0]
+  layer=0 closed=True npts=4 x=[109942.0,109996.1] y=[-6197.1,-6006.3]
+
+--- ARC detail (layer, center, r) first 15 ---
+  layer=0 c=(110094.7,-6153.9) r=1.25
+  layer=0 c=(110095.2,-6177.4) r=1.25
+  layer=0 c=(110095.2,-6188.9) r=1.25
+  layer=0 c=(110094.7,-6165.9) r=1.25
+  layer=0 c=(109999.2,-6188.9) r=1.25
+  layer=0 c=(109999.2,-6177.4) r=1.25
+  layer=0 c=(109999.2,-6153.9) r=1.25
+  layer=0 c=(109999.2,-6165.9) r=1.25
+  layer=0 c=(109753.0,-6118.8) r=1.25
+  layer=0 c=(109753.0,-6130.3) r=1.25
+  layer=0 c=(110085.7,-6017.9) r=1.25
+  layer=0 c=(110085.7,-6028.9) r=1.25
+  layer=0 c=(110085.2,-6054.9) r=1.25
+  layer=0 c=(110085.2,-6067.4) r=1.25
+  layer=0 c=(110096.2,-6096.4) r=1.25

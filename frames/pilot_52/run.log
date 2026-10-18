@@ -1,0 +1,15 @@
+render: 6700x4598 px (153.7s)
+binarize fg_ratio=0.0078
+skeleton px=122198
+raw nets=4523 wire_width=1.9px dots=67
+wire nets=408 small=4115
+rectangle candidates=12
+bottom strip candidates=0
+bottom grid cells excluded=0
+device boxes kept=6
+text regions detected=141
+ocr loaded from cache=0
+terminal circles=111
+nets linked via terminals=29
+from_to rows=372 devices=6 ports=22 dangling=323 border_nets_excluded=36
+overlay -> overlay.png

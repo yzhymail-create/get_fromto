@@ -1,0 +1,18 @@
+frame #112 units bbox=[108653.6, -12063.2, 109491.2, -11488.4]
+render: skipped (--no-render), reuse 6700x4598
+binarize fg_ratio=0.0100
+skeleton px=157382
+raw nets=6420 wire_width=1.9px dots=121
+wire nets=483 small=5937
+rectangle candidates=20
+bottom grid cells excluded=0
+device boxes kept=12
+ocr loaded from cache=210
+kept 6 manual_patch texts
+border nets excluded=12
+pins matched=27/27 (ring-disk v2)
+from_to rows=27 wire_labels=32
+wrote D:\Ada-WorkSpace\visual_tracer\frames\pilot_112\FromTo_机器版.xlsx (build_fromto)
+label-rows assembly used: 36 rows (overwrote xlsx)
+jump targets: 23 patched, 3 no-symbol
+overlay -> overlay.png
